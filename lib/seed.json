@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "profile": {
+    "nickname": "",
+    "modelTag": ""
+  },
+  "posts": [],
+  "tracks": [
+    {
+      "id": "intelligence",
+      "name": "我的智系车",
+      "kind": "ongoing",
+      "hashtag": "#我的智系车",
+      "countsCap": true,
+      "active": true,
+      "startsAt": "",
+      "endsAt": "",
+      "maxPosts": null,
+      "notes": "三大长期赛道之一，与车型话题搭配；每篇只选一组。"
+    },
+    {
+      "id": "travel",
+      "name": "开车出去玩",
+      "kind": "ongoing",
+      "hashtag": "#开车出去玩",
+      "countsCap": true,
+      "active": true,
+      "startsAt": "",
+      "endsAt": "",
+      "maxPosts": null,
+      "notes": "三大长期赛道之一，与车型话题搭配。"
+    },
+    {
+      "id": "relax",
+      "name": "车内躺平计划",
+      "kind": "ongoing",
+      "hashtag": "#车内躺平计划",
+      "countsCap": true,
+      "active": true,
+      "startsAt": "",
+      "endsAt": "",
+      "maxPosts": null,
+      "notes": "三大长期赛道之一，与车型话题搭配。"
+    }
+  ],
+  "rules": [
+    {
+      "id": "current",
+      "label": "默认规则 · 150积分 / 周4篇",
+      "effectiveFrom": "2026-11-13",
+      "points": 150,
+      "weeklyCap": 4,
+      "source": "默认配置确认日期为2026-11-13：每篇150积分，每周4篇。实际使用时根据最新活动公告新增规则版本，历史记录保留原积分快照。"
+    }
+  ],
+  "forms": [],
+  "payouts": []
+}
